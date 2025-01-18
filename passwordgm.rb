@@ -32,7 +32,7 @@ def generate_password(length)
  end
 
 
-key='123456789012345678901234'
+key="some random key here " 
 
 
 while true
